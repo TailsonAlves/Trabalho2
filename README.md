@@ -14,5 +14,6 @@ Sitema de alocação de veículos
 ## Autor
 Tailson Vasconcelos Alves
 
-## Downloads
-Download do sistema: [Locadora.rar](https://github.com/TailsonAlves/Trabalho2.git)
+## Funcionamento e Observações
+Para o armazenamento dos dados, utilizou-se manipulação de arquivos CSV, isto é, toda e qualquer operação dentro do sistema será armazenada em arquivos CSV, possibilitando a recorrência desses dados quando o programa for executado novamente.
+OBS:. Para recomeçar do "zero", basta selecionar a opção *7* do *menu* no programa para resetar o banco de dados.
