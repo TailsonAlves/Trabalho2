@@ -1,6 +1,8 @@
+# Trabalho 2 - Técnicas de Programação na linguagem Python
+Sitema de alocação de veículos
 ## Requisitos
 
-- Python 3.6 ou superior
+- Python 3.6 ou superior(recomendado)
 - IDE Idle
 
 ## Instalação
